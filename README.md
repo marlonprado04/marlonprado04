@@ -1,8 +1,8 @@
-<h3> Olá, eu sou Marlon! Seja bem vindo(a) ao meu perfil no GitHub! 👋🏻 </h3>
-<h6> #programacao, #dados, #computação, #culturapop e #muitatecnologia </h6>
+<h3> Olá, eu sou Marlon! Bem vindo(a) ao meu perfil no GitHub! 👋🏻 </h3>
+<h6> #programacao, #nerdices e #tecnologias </h6>
 
 ##
-<h3> 🌐 Redes Sociais: </h3> 
+<h3> 🌐 Social: </h3> 
 
 <div> 
   <a href="https://www.linkedin.com/in/marlonprado04" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -13,9 +13,9 @@
 
 ##
 
-<h3> 📚 Github Status: </h3>
+<h3> 📚 Status: </h3>
    
-<div style="display: inline_block">
+<div style="display: inline_block align:center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marlonprado04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonprado04&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
