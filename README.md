@@ -6,13 +6,13 @@
 
 Me chamo Marlon e tenho 23 anos.
 
-Iniciei no mercado de trabalho aos __14 anos__ como __menor aprendiz__ em uma multinacional. Simultaneamente, iniciei meu curso __Técnico em Informática__ e, ao ser efetivado, redirecionei meus estudos, o que me possibilitou passar por diversos setores até ser __promovido para parte equipe de planejamento comercial, aos 22 anos__.
+Iniciei no mercado de trabalho aos __14 anos__ como __menor aprendiz__ em uma multinacional e em paralelo dei início ao meu curso __Técnico em Informática__. Ao ser efetivado, redirecionei meus estudos, o que me possibilitou adquirir experiência em diversos setores até ser __promovido para parte equipe de planejamento comercial, aos 22 anos__ onde utilizei muito Excel e junto de automações para relatórios e tarefas.
 
-Em 2023 decidi retomar meus estudos para concluir o curso técnico e, em 2024, almejo iniciar minha graduação de __Engenharia de Software__.
+Com 23 anos decidi retomar meus estudos no curso técnico para me entrar no mercado de TI e, no primeiro semestre de 2024, almejo iniciar minha graduação de __Engenharia de Software__.
 
-Estou motivado a utilizar os conhecimentos adquiridos em plataformas como __Alura__, __Hashtag Treinamentos__ e o __Programa Nova Geração__ oferecido pelo Instituto Caldeira, para contribuir efetivamente com a equipe e o sucesso do projeto.
+No momento busco uma oportunidade para utilizar o aprendizado adquirido através de plataformas como __Alura__, __Hashtag Treinamentos__, __DIO__ e o __Programa Nova Geração__ oferecido pelo Instituto Caldeira, para contribuir efetivamente com a equipe e o sucesso do projeto.
 
-Para acessar minha __lista de cursos e projetos__ no Notion, clicar [neste link](https://marlonprado04.notion.site/Saber-sem-limites-ea72a7ee9b0046339f94432a0ba665f5?pvs=4).
+Para quem tiver interesse, estou documentando minha __trilha de aprendizado__ no Notion e ela pode ser acessada através [deste link](https://marlonprado04.notion.site/Saber-sem-limites-ea72a7ee9b0046339f94432a0ba665f5?pvs=4).
 
 ### Entre em contato comigo
 
