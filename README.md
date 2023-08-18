@@ -52,7 +52,7 @@ Para quem tiver interesse, estou documentando minha __trilha de aprendizado__ no
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=QI_FACULDADE_E_ESCOLA_TECNICA&theme=midnight-purple)](https://github.com/marlonprado04/QI_FACULDADE_E_ESCOLA_TECNICA) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=HASHTAG_TREINAMENTOS&theme=midnight-purple)](https://github.com/marlonprado04/HASHTAG_TREINAMENTOS)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=DIO&theme=midnight-purple)](https://github.com/marlonprado04/DIO) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=PROGRAMA_NOVA_GERACAO&theme=midnight-purple)](https://github.com/marlonprado04/PROGRAMA_NOVA_GERACAO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=BOOTCAMP_fullstack_java_e_angular&theme=midnight-purple)](https://github.com/marlonprado04/BOOTCAMP_fullstack_java_e_angular) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=PROGRAMA_NOVA_GERACAO&theme=midnight-purple)](https://github.com/marlonprado04/PROGRAMA_NOVA_GERACAO)
 
 ## Contribuitions
 
