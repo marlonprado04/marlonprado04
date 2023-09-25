@@ -8,7 +8,7 @@ Me chamo Marlon e tenho 23 anos.
 
 Iniciei no mercado de trabalho aos __14 anos__ como __menor aprendiz__ em uma multinacional e em paralelo dei início ao meu curso __Técnico em Informática__. Ao ser efetivado, redirecionei meus estudos, o que me possibilitou adquirir experiência em diversos setores até ser __promovido para parte equipe de planejamento comercial, aos 22 anos__ onde utilizei muito Excel e junto de automações para relatórios e tarefas.
 
-Com 23 anos decidi retomar meus estudos no curso técnico para me entrar no mercado de TI e, no primeiro semestre de 2024, almejo iniciar minha graduação de __Engenharia de Software__.
+Com 23 anos decidi retomar meus estudos no curso técnico para me entrar no mercado de TI e, no primeiro semestre de 2024, almejo iniciar minha graduação de __Ciência da Computação__.
 
 No momento busco uma oportunidade para utilizar o aprendizado adquirido através de plataformas como __Alura__, __Hashtag Treinamentos__, __DIO__ e o __Programa Nova Geração__ oferecido pelo Instituto Caldeira, para contribuir efetivamente com a equipe e o sucesso do projeto.
 
