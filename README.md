@@ -1,4 +1,3 @@
-# `import marlonprado04`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Marlon;Bem+vindo(a)+ao+meu+GitHub!:%29)](https://git.io/typing-svg)
 
