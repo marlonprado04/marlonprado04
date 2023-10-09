@@ -20,7 +20,6 @@ Para quem tiver interesse, estou documentando minha __trilha de aprendizado__ no
 ## GitHub Status
 
 ![Most Used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marlonprado04&layout=compact&theme=midnight-purple)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonprado04&theme=midnight-purple&show_icons=true)
 
 [![Marlon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marlonprado04&bg_color=0d1117&color=6695b2&line=ffffff&point=9745F5&area=true&hide_border=true&title_color=9745F5&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
