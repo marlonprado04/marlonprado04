@@ -3,19 +3,20 @@
 
 ## Sobre mim
 
-Me chamo Marlon e tenho 23 anos.
+Atualmente cursando o Técnico em Informática e em 2024 darei início à minha graduação em Ciência da Computação, com o objetivo de me tornar um Engenheiro de Software.
 
-Iniciei no mercado de trabalho aos __14 anos__ como __menor aprendiz__ em uma multinacional e em paralelo dei início ao meu curso __Técnico em Informática__. Ao ser efetivado, redirecionei meus estudos, o que me possibilitou adquirir experiência em diversos setores até ser __promovido à Supervisor Comercial, aos 22 anos__ onde utilizei muita automações para elaboração de relatórios e tarefas, além de Excel.
+Tenho 5 anos de experiência em administração, suporte e estratégia comercial em uma multinacional onde desenvolvi habilidades sólidas em análise de dados, gestão de processos, pensamento sistêmico e suporte a usuários.
 
-Com 23 anos decidi retomar meus estudos no curso técnico para me entrar no mercado de TI e, no primeiro semestre de 2024, almejo iniciar minha graduação de __Ciência da Computação__.
+Minhas habilidades técnicas incluem conhecimento em Java, PHP, JavaScript, TypeScript, Angular, Python, HTML, CSS, Git e GitHub, sistemas operacionais (CLI Linux e Windows), suporte técnico a hardware e software, além de inglês intermediário.
 
-No momento busco uma oportunidade para utilizar o aprendizado adquirido através de plataformas como __Alura__, __Hashtag Treinamentos__, __DIO__ e o __Programa Nova Geração__ oferecido pelo Instituto Caldeira, para contribuir efetivamente com a equipe e o sucesso do projeto.
+Estou entusiasmado em colaborar, aprender e contribuir em projetos de tecnologia inovadores!
 
-Para quem tiver interesse, estou documentando minha __trilha de aprendizado__ no Notion e ela pode ser acessada através [deste link](https://marlonprado04.notion.site/Saber-sem-limites-ea72a7ee9b0046339f94432a0ba665f5?pvs=4).
 
-### Entre em contato comigo
+Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, fique à vontade para entrar em contato comigo pelo WhatsApp (51) 98260-9193 ou através dos links abaixo: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marlonprado04/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marlon_prado04/) [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marlonprado04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marlonprado04/) 
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marlon_prado04/) 
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marlonprado04@gmail.com)
 
 ## GitHub Status
 
