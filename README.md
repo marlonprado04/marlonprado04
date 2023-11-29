@@ -14,7 +14,9 @@ Estou entusiasmado em colaborar, aprender e contribuir em projetos de tecnologia
 
 Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, fique à vontade para entrar em contato comigo pelo WhatsApp (51) 98260-9193 ou através dos links abaixo: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marlonprado04/) 
+
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=green)](tel:+5551982609193) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marlon_prado04/) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marlonprado04@gmail.com)
 
