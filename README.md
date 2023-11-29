@@ -58,7 +58,7 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
 </div>
 
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 ![Power BI](https://img.shields.io/badge/Power_Bi-000?style=for-the-badge&logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel) ![Google Colab](https://img.shields.io/badge/Google_Colab-000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00) ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000?style=for-the-badge&logo=jupyter&logoColor=F37626)
