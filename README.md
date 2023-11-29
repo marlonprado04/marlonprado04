@@ -31,7 +31,7 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
 ## Linguagens
 
 
-<div style="display: inline_block">
+<div style="display: inline_block; text-align: center;">
   <img align="center" alt="-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="-TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -42,7 +42,7 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
   <img align="center" alt="-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block; text-align: center;">
   <img align="center" alt="-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Markdown" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
@@ -51,15 +51,14 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
 
 ## Tecnologias e ferramentas
 
-<div style="display: inline_block">
+<div style="display: inline_block; text-align: center;">
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 </div>
 
-<div style="display: inline_block">
-  <img align="center" alt="linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
 
 ![Power BI](https://img.shields.io/badge/Power_Bi-000?style=for-the-badge&logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel) ![Google Colab](https://img.shields.io/badge/Google_Colab-000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00) ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
