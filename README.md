@@ -16,7 +16,7 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
 
 
 
-[![5551982609193](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=green)](#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marlonprado04/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marlon_prado04/) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marlonprado04@gmail.com)
 
