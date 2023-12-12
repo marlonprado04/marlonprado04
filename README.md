@@ -23,6 +23,7 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
 ## GitHub Status
 
 ![Most Used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marlonprado04&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonprado04&layout=compact&theme=midnight-purple)
 
 
 
