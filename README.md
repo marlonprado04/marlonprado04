@@ -29,7 +29,7 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
   [![Marlon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marlonprado04&bg_color=0d1117&color=6695b2&line=ffffff&point=9745F5&area=true&hide_border=true&title_color=9745F5&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-## Linguagens
+## Linguagens e tecnologias
 
 
 <div align="center">
@@ -46,8 +46,6 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
   <img alt="-CSS3" height="75" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="-Markdown" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
-
-## Tecnologias e ferramentas
 
 <div align="center">
   <img align="center" alt="git" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
