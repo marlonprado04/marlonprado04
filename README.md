@@ -19,8 +19,9 @@
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonprado04&layout=compact&theme=midnight-purple)
-  [![Marlon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marlonprado04&bg_color=0d1117&color=6695b2&line=ffffff&point=9745F5&area=true&hide_border=true&title_color=9745F5&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-stats.vercel.app/api?username=marlonprado04&show_icons=true&theme=midnight-purple" alt="Marlon's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonprado04&layout=compact&theme=midnight-purple" alt="Top Langs">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marlonprado04&bg_color=0d1117&color=6695b2&line=ffffff&point=9745F5&area=true&hide_border=true&title_color=9745F5&radius=7" alt="Marlon's Contribution Graph" href="https://github.com/ashutosh00710/github-readme-activity-graph">
 </div>
 
 ## Linguagens e tecnologias
@@ -67,7 +68,6 @@
 <div align="center">
  
 </div>
-
 
 
 ## Contagem de visitas
