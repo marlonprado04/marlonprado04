@@ -62,25 +62,6 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
 
 ![Power BI](https://img.shields.io/badge/Power_Bi-000?style=for-the-badge&logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel) ![Google Colab](https://img.shields.io/badge/Google_Colab-000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00) ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-## Soft skills
-
-![Organização](https://img.shields.io/badge/Organização-000?style=for-the-badge) ![Gestão de tempo](https://img.shields.io/badge/Gestão_de_tempo-000?style=for-the-badge) ![Resolução de problemas](https://img.shields.io/badge/Resolução_de_Problemas-000?style=for-the-badge) ![Visão sistêmica](https://img.shields.io/badge/Visão_sistêmica-000?style=for-the-badge)
-![Empatia](https://img.shields.io/badge/Empatia-000?style=for-the-badge) ![Escrita](https://img.shields.io/badge/Escrita-000?style=for-the-badge) ![Oratória](https://img.shields.io/badge/Oratória-000?style=for-the-badge)
-
-## Principais Projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=qi_web_iii_projeto_final&theme=midnight-purple)](https://github.com/marlonprado04/qi_web_iii_projeto_final) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=web_scrapping_tbate&theme=midnight-purple)](https://github.com/marlonprado04/web_scrapping_tbate)
-
-## Cursos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=QI_FACULDADE_E_ESCOLA_TECNICA&theme=midnight-purple)](https://github.com/marlonprado04/QI_FACULDADE_E_ESCOLA_TECNICA) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=HASHTAG_TREINAMENTOS&theme=midnight-purple)](https://github.com/marlonprado04/HASHTAG_TREINAMENTOS)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=BOOTCAMP_fullstack_java_e_angular&theme=midnight-purple)](https://github.com/marlonprado04/BOOTCAMP_fullstack_java_e_angular) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=PROGRAMA_NOVA_GERACAO&theme=midnight-purple)](https://github.com/marlonprado04/PROGRAMA_NOVA_GERACAO)
-
-## Contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marlonprado04&repo=DIO_lab_01_contribuindo_com_open_source&theme=midnight-purple)](https://github.com/marlonprado04/DIO_lab_01_contribuindo_com_open_source)
-
 ## Contagem de visitas
 <div align="center">
   <img src="https://profile-counter.glitch.me/marlonprado04/count.svg?"  />
