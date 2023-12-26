@@ -31,6 +31,7 @@ Para networking, oportunidades de aprendizado ou discussões sobre tecnologia, f
   
   [![Marlon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marlonprado04&bg_color=0d1117&color=6695b2&line=ffffff&point=9745F5&area=true&hide_border=true&title_color=9745F5&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
 ## Linguagens
 
 
