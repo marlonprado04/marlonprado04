@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marlon_prado04/) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marlonprado04@gmail.com)
 
-🎓 Apaixonado por tecnologia e movido pela curiosidade desde criança, atualmente sou formado como Técnico em Informática e em 2024 darei início à minha graduação em Ciência da Computação, com o objetivo de me tornar um Engenheiro de Software.
+🎓 Apaixonado por tecnologia e movido pela curiosidade desde criança, atualmente sou formado como Técnico em Informática e em 2024 darei início à minha graduação em Análise e Desenvolvimento de Sistemas, com o objetivo de me tornar um Engenheiro de Software.
 
 💼 Com 5 anos de experiência em administração, suporte e estratégia comercial, estou realizando uma transição para a área de TI em busca de novos desafios.
 
