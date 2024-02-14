@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KaueMiziara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="175" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=marlonprado04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="175" alt="streak graph"  />
 </div>
 
 ## Contagem de visitas
