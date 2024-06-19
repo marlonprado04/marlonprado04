@@ -6,13 +6,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marlon_prado04/) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marlonprado04@gmail.com)
 
-🎓 Apaixonado por tecnologia e movido pela curiosidade desde criança, atualmente sou formado como Técnico em Informática e em 2024 darei início à minha graduação em Análise e Desenvolvimento de Sistemas, com o objetivo de me tornar um Engenheiro de Software.
+🎓 Movido pela curiosidade e aprendizado contínuo, busco diariamente ser a excelência como desenvolvedor especializado em Java, JavaScript e Python.
 
-💼 Com 5 anos de experiência em administração, suporte e estratégia comercial, estou realizando uma transição para a área de TI em busca de novos desafios.
+💻 Fanático por novas tecnologias utilizo Linux 🐧 e software livre em meus projetos e na vida. 
 
-🚀 Habilidades técnicas abrangem Java, PHP, JavaScript, TypeScript, Angular, Python, HTML, CSS, Git, GitHub, sistemas operacionais (CLI Linux e Windows) e suporte técnico a hardware e software, além de inglês intermediário.
+🚀 Metodologias ágeis e arquitetura de sistemas de alta complexidade guiam minha jornada para me tornar uma referência como Engenheiro de Software.
 
-🌐 Entusiasmado em colaborar, aprender e contribuir para projetos de tecnologia inovadores!
+Tenho experiência com:
+
+POO, MVC, Java, PHP, JavaScript, TypeScript, Python, Angular, HTML, CSS, Git, GitHub, CLI Linux, suporte técnico
 
 ## GitHub Status
 
