@@ -14,7 +14,7 @@
 
 Tenho experiência com:
 
-POO, MVC, Java, PHP, JavaScript, TypeScript, Python, Angular, HTML, CSS, Git, GitHub, CLI Linux, suporte técnico
+POO, MVC, Java, Angular,  JavaScript, TypeScript, Python, PHP, Angular, HTML, CSS, Git, GitHub, Linux, suporte técnico
 
 ## GitHub Status
 
@@ -28,44 +28,8 @@ POO, MVC, Java, PHP, JavaScript, TypeScript, Python, Angular, HTML, CSS, Git, Gi
 
 ## Linguagens e tecnologias
 
-
-
-
-<table border=0>
-    <tr>
-        <td>
-          <img alt="-Java" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          <img alt="-JavaScript" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-          <img alt="-TypeScript" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          <img alt="-nodejs" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-          <img alt="-Angular" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-          <img alt="-Python" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          <img alt="-PHP" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-          <img alt="-MYSQL" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
-        </td>
-    </tr>    
-  </table>
-
-  <table>
-    <tr>
-       <td align="center">
-          <img alt="-HTML5" height="75" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img alt="-CSS3" height="75" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img alt="-Markdown" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-        </td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-       <td align="center">
-          <img align="center" alt="linux" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          <img align="center" alt="git" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          <img align="center" alt="github" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          <img align="center" alt="vscode" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=java,angular,js,typescript,nodejs,python,php,mysql" alt="Skills and tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,markdown,linux,git,github,vscode" alt="Skills and tools"/>
 
 <div align="center">
  
